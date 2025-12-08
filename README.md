@@ -1,8 +1,7 @@
 # Hi, I'm Nawaf Sheikh 👨‍💻
 
 [![Profile Views](https://komarev.com/ghpvc/?username=greenm8rix&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/greenm8rix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nawaf-sheikh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nawaf-sheikh-a178571a0/)h)
 
 ---
 
@@ -16,7 +15,7 @@ I specialize in **enterprise systems integration**, **automation workflows**, an
 - 🎯 **Focus**: Enterprise automation, document design (Docentric), AI integration
 - 📚 **Currently Learning**: Advanced AI-powered document generation, enterprise system migration
 - 💼 **Open to**: Freelance projects, automation consulting, and innovative integrations
-- 📧 **Contact**: [Email](mailto:your-email@example.com)
+- 📧 **Contact**: [Email](mailto:nawafshikh10@gmail.com)
 
 ---
 
@@ -112,7 +111,7 @@ Looking for collaboration on:
 - 📊 Data processing & analytics
 - 💼 Freelance consulting opportunities
 
-**Reach out**: [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/nawaf-sheikh)
+**Reach out**: [Email](mailto:nawafsheikh10@gmail.com) | [LinkedIn](https://linkedin.com/in/nawaf-sheikh)
 
 ---
 
